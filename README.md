@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Everything** 🤣
 
-- 👯 I’m **Nope**
+- 👯 I’m **Noob**
 
 - 💬 Ask me about **Cyber Security and many more...**
 
