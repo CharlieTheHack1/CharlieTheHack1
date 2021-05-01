@@ -2,7 +2,7 @@
 <a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
 <h1 align="center">Hi 👋, I'm Charlie : The Hacker</h1>
-<p align="center">  <img src="https://komarev.com/ghpvc/?username=CharlieTheHack1&color=green" alt="CharlieTheHack1"/></p>
+<p align="center">  <img src="https://profile-counter.glitch.me/CharlieTheHack1/count.svg" alt="CharlieTheHack1"/></p>
 
 
 - 🔭 I’m currently working on being **Script Kiddie**
@@ -25,12 +25,18 @@
 <br />
 <br />
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlieTheHack1&show_icons=true)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CharlieTheHack1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 scripts     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
+🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
 🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
 
@@ -57,8 +63,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <br />
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharlieTheHack1&theme=white-blue" alt="CharlieTheHack1" /></p>
-
-<br />
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CharlieTheHack1&show_icons=true" alt="CharlieTheHack1" /></p>
+
+<h1 align="center">LIFE IS JUST A HACK 👿</h1>
